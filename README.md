@@ -19,5 +19,5 @@ It allows you to define **DAGs** (Directed Acyclic Graphs) of tasks, manage **de
 Clone the repo:
 
 ```bash
-git clone https://github.com/your-username/flowforge.git
+git clone https://github.com/bilgesubukk/flowforge.git
 cd flowforge

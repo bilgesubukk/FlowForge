@@ -1,7 +1,7 @@
 # FlowForge  
 
 **FlowForge** is a lightweight Python workflow orchestration tool inspired by Apache Airflow.  
-It lets you define **DAGs** (Directed Acyclic Graphs), manage **dependencies**, and execute tasks concurrently with retries, timeouts, and logging — all with minimal setup.  
+It lets you define **DAGs** (Directed Acyclic Graphs), manage **dependencies**, and execute tasks concurrently with retries, timeouts, and logging. 
 
 ---
 
@@ -87,6 +87,6 @@ pytest -v
 ## 📌 Roadmap
 
 * [ ] Add cron-style scheduling
-* [ ] Add persistence (SQLite/Postgres backend)
+* [ ] Add persistence
 
 ---
